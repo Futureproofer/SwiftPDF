@@ -1,0 +1,6 @@
+{
+  "name": "DocFlow PDF Studio",
+  "description": "Organize PDFs and images, categorize by project or date folders, reorder pages with drag-and-drop, compress file sizes, export single merged PDFs to local custom directories, and backup with cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
